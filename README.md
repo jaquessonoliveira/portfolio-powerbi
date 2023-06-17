@@ -1,4 +1,4 @@
-# **Portfólio de Projetos - Power BI**
+# **Portfólio de Projetos | Power BI**
 
 ---
 
