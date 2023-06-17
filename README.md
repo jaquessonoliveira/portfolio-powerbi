@@ -3,7 +3,7 @@
 ---
 
 <center>
-<img src="https://lh3.googleusercontent.com/FMv9Bmit2NNSMGiwcH6o59c_bbRUV3jCcMvBUWLW2n-P6E4Hwgenk5N7nXqN8PNnXEZCykHuflsJP7E02h3ZSJBq_LncC6t7JA7QQmkHsjYMyUgYV12DBTluyvQqLdFzZw=w1280">
+<img src="https://github.com/jaquessonoliveira/ebac-course-utils/blob/main/Imagem%20Portf%C3%B3lio%202.png?raw=true">
     
 ---
   
@@ -11,4 +11,4 @@ Portfólio de Projetos em Power BI com uma variedade de Dashboards desenvolvidos
 
 Dashboards realizados para as áreas de Marketing, Comercial, Recursos Humanos, Logística, Financeiro, Contábil e para o Mercado de Ações.
 
-Para visualizar os Dashboards de forma totalmente interatina é só clicar neste link [Portfólio](https://sites.google.com/view/portfoliojaquesson/):
+Para visualizar os Dashboards de forma totalmente interativa é só clicar neste link ([Portfólio](https://sites.google.com/view/portfoliojaquesson/)):
